@@ -1,0 +1,19 @@
+*{box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+h1{
+    display: inline-block;
+    line-height: 100px;
+    vertical-align: 30px;
+    font-size: 80px;
+}
