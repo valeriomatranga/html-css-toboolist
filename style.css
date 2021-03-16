@@ -14,22 +14,22 @@ footer{
 }
 
 .logo{
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     display: inline-block;
 }
 
 h1{
     display: inline-block;
-    line-height: 100px;
-    vertical-align: 30px;
-    font-size: 80px;
+    line-height: 80px;
+    vertical-align: 20px;
+    font-size: 60px;
 }
 /* /footer */
 
 main{
     background-color: white;
-    margin: 0 200px;
+    margin: 0px 200px;
     text-align: left;
 }
 
@@ -74,17 +74,18 @@ nav{
 }
 /* /utiliy */
 
+/* section */
 section{
     padding: 10px 40px 0px;
 }
 
 h2{
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     margin-top: 30px;
 }
 
 .voci{
-    margin: 20px 0 20px 0;
+    margin: 10px 0 20px 0;
 }
 
 .ed{
@@ -112,3 +113,12 @@ h2{
 .mo{
     background-color: orange;
 }
+
+.web{
+    background-color: palevioletred;
+}
+
+.sal{
+    background-color: rgb(128, 190, 35);
+}
+/* /section */
