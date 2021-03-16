@@ -17,3 +17,25 @@ h1{
     vertical-align: 30px;
     font-size: 80px;
 }
+
+nav{
+    margin: 100px 400px;
+}
+
+#add-t{
+    color: white;
+    background-color: rgb(81, 153, 211);
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#add-s{
+    color: gray;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    background-color: white;
+}
+
